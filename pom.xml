@@ -21,7 +21,7 @@
         <groupId>org.openshift.di2e</groupId>
         <artifactId>my-rs-app</artifactId>
         <version>1.0.0-SNAPSHOT</version>
-        <packaging>jar</packaging>
+        <packaging>war</packaging>
         <name>My JAX-RS APPlication</name>
         <description>A simple Hello World project that uses JAX-RS</description>
 
